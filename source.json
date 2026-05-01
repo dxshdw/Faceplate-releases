@@ -11,12 +11,12 @@
       "localizedDescription": "Unified now-playing surface for any music app, Navidrome (Subsonic) client, and Rockbox-compatible theming engine.",
       "iconURL": "https://raw.githubusercontent.com/dxshdw/Faceplate-releases/main/icon.png",
       "tintColor": "#0B0F1A",
-      "version": "0.4.0",
-      "buildVersion": "21",
-      "versionDate": "2026-05-01T06:05:46Z",
-      "versionDescription": "fix(ci): inline python tag-extraction onto one line so YAML doesn't choke",
-      "downloadURL": "https://raw.githubusercontent.com/dxshdw/Faceplate-releases/main/releases/Faceplate-0.4.0-build21.ipa",
-      "size": 120411,
+      "version": "0.5.0",
+      "buildVersion": "23",
+      "versionDate": "2026-05-01T06:10:43Z",
+      "versionDescription": "release: bump MARKETING_VERSION to 0.5.0 (now-playing slice)",
+      "downloadURL": "https://raw.githubusercontent.com/dxshdw/Faceplate-releases/main/releases/Faceplate-0.5.0-build23.ipa",
+      "size": 143635,
       "screenshotURLs": [],
       "permissions": []
     }
