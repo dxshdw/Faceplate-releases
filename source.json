@@ -1,0 +1,24 @@
+{
+  "name": "dxshdw",
+  "identifier": "dev.dxshdw.releases",
+  "sourceURL": "https://raw.githubusercontent.com/dxshdw/Faceplate-releases/main/source.json",
+  "apps": [
+    {
+      "name": "Faceplate",
+      "bundleIdentifier": "dev.dxshdw.faceplate",
+      "developerName": "dxshdw",
+      "subtitle": "iOS music hub",
+      "localizedDescription": "Unified now-playing surface for any music app, Navidrome (Subsonic) client, and Rockbox-compatible theming engine.",
+      "iconURL": "https://raw.githubusercontent.com/dxshdw/Faceplate-releases/main/icon.png",
+      "tintColor": "#0B0F1A",
+      "version": "0.2.0",
+      "buildVersion": "2",
+      "versionDate": "2026-05-01T04:40:19Z",
+      "versionDescription": "chore: gitignore .claude/ harness state",
+      "downloadURL": "https://raw.githubusercontent.com/dxshdw/Faceplate-releases/main/releases/Faceplate-0.2.0-build2.ipa",
+      "size": 18859,
+      "screenshotURLs": [],
+      "permissions": []
+    }
+  ]
+}
