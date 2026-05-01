@@ -12,11 +12,11 @@
       "iconURL": "https://raw.githubusercontent.com/dxshdw/Faceplate-releases/main/icon.png",
       "tintColor": "#0B0F1A",
       "version": "0.3.0",
-      "buildVersion": "5",
-      "versionDate": "2026-05-01T05:06:49Z",
-      "versionDescription": "fix(release): force MARKETING_VERSION + Info.plist settings on xcodebuild cmdline; sed-based tag body extract",
-      "downloadURL": "https://raw.githubusercontent.com/dxshdw/Faceplate-releases/main/releases/Faceplate-0.3.0-build5.ipa",
-      "size": 18859,
+      "buildVersion": "6",
+      "versionDate": "2026-05-01T05:10:00Z",
+      "versionDescription": "fix(build): switch to modern INFOPLIST_KEY_* synthesis",
+      "downloadURL": "https://raw.githubusercontent.com/dxshdw/Faceplate-releases/main/releases/Faceplate-0.3.0-build6.ipa",
+      "size": 19103,
       "screenshotURLs": [],
       "permissions": []
     }
